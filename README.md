@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет! Я NeroLocker 👋
 
-<!--
-**nerolocker/nerolocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+- 🔭 Энтузиаст из Омска
+- 🌱 Сейчас изучаю **Go**
+- 🚀 Поддерживаю проекты: **whitemusic** и **xiaomioldexploit**
 
-Here are some ideas to get you started:
+## Мои проекты
+- [whitemusic](https://github.com/nerolocker/whitemusic) — мод для Яндекс Музыки
+- [xiaomioldexploit](https://github.com/nerolocker/xiaomioldexploit) — эксплойт для Xiaomi (Go)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои навыки
+- Go
+- JS
+- Git
