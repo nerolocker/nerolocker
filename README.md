@@ -25,13 +25,3 @@
 - ⚡ **[xiaomioldexploit](https://github.com/nerolocker/xiaomioldexploit)** — Эксплойт для устройств Xiaomi (Go).
 
 ---
-
-## 📊 Статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nerolocker&show_icons=true&theme=tokyonight&hide_border=true" alt="NeroLocker Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerolocker&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nerolocker&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
