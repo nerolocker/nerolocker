@@ -44,6 +44,9 @@
 ## 📊 Статистика профиля
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nerolocker&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerolocker&layout=compact&theme=visual_studio_dark" alt="Top Languages" />
+  ### 📊 Статистика профиля
+
+<img src="https://github-readme-stats.vercel.app/api?username=nerolocker&show_icons=true&theme=visual_studio_dark&include_all_commits=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerolocker&layout=compact&theme=visual_studio_dark" />
 </p>
