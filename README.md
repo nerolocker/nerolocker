@@ -1,52 +1,41 @@
-# Привет, я NeroLocker! 👋 
+# Привет, я NeroLocker! 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nerolocker&color=blueviolet&style=flat-square" alt="Просмотры профиля" />
+  <img src="https://img.shields.io/badge/Omsk-Siberia-blueviolet?style=flat-square&logo=maplibre" alt="Location" />
 </p>
 
 ## 🚀 Обо мне
+Я разработчик и энтузиаст из **Омска** 🌲. Специализируюсь на **Go** и реверс-инжиниринге. Люблю создавать инструменты, которые решают реальные задачи.
 
-Я разработчик и энтузиаст из **Омска** 🌲. Люблю копаться в коде, находить уязвимости и создавать полезные инструменты для повседневной жизни.
-
-- 🌱 В данный момент активно прокачиваюсь в **Go**
-- 🛠️ Занимаюсь реверс-инжинирингом и кастомизацией мобильных экосистем
-- 💬 Всегда рад обсудить интересные Open Source проекты или архитектуру на Go
+- 🌱 Изучаю: **Go** (глубокое погружение)
+- 🛠 Стек: **Go**, **JS**, **Git**, **Linux**
+- 💬 Готов обсудить Open Source, архитектуру и низкоуровневые уязвимости
 
 ---
 
-## 🛠️ Навыки и технологии
-
-### Языки программирования & Фреймворки
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### Инструменты & Devops
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+## 🛠 Технологический стек
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 📦 Мои главные проекты
-
-### 🎵 [whitemusic](https://github.com/nerolocker/whitemusic)
-> Кастомный мод для Яндекс Музыки. Делаю прослушивание любимых треков ещё более комфортным и гибким.
-
-### ⚡ [xiaomioldexploit](https://github.com/nerolocker/xiaomioldexploit)
-> Эксплойт для устройств Xiaomi, написанный на Go. Демонстрация возможностей языка в сфере информационной безопасности и работы с низкоуровневыми уязвимостями.
+## 📦 Мои проекты
+- 🎵 **[whitemusic](https://github.com/nerolocker/whitemusic)** — Мод для Яндекс Музыки.
+- ⚡ **[xiaomioldexploit](https://github.com/nerolocker/xiaomioldexploit)** — Эксплойт для Xiaomi (Go) — демонстрирует навыки системного программирования.
 
 ---
 
-## 📊 Статистика профиля
+## 📊 Статистика
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nerolocker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerolocker&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages" />
+</p>
 
 <p align="center">
-  ### 📊 Статистика профиля
-
-<img src="https://github-readme-stats.vercel.app/api?username=nerolocker&show_icons=true&theme=visual_studio_dark&include_all_commits=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerolocker&layout=compact&theme=visual_studio_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nerolocker&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
