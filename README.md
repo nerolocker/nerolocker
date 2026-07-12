@@ -30,12 +30,9 @@
 
 ---
 
-## 📊 Статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nerolocker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerolocker&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages" />
-</p>
+### 📊 Статистика профиля
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nerolocker&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nerolocker&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerolocker&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
