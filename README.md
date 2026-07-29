@@ -21,7 +21,7 @@
 ---
 
 ## 📦 Проекты
-- 🎵 **[whitemusic](https://github.com/nerolocker/whitemusic)** — Мод для Яндекс Музыки.
+- 🎵 **[whitemusic](https://github.com/nerolocker/whitemusic)** — Мод для Яндекс Музыки.(проект закрыт,временно)
 - ⚡ **[xiaomioldexploit](https://github.com/nerolocker/xiaomioldexploit)** — Эксплойт для устройств Xiaomi (Go).
 
 ---
